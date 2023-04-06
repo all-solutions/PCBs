@@ -29,5 +29,4 @@ If you are interested, please donate the corresponding amount via [this Paypal l
  
 **Attention:**
 
-Due to the unexpected interest, donations received starting from 02. April 2023 12pm can not be shipped until around 22 April. New PCB's are already ordered.
-You can of course donate before 22. April. The PCB's will then be processed and shipped in the order a donation is received.
+The first boards are on their way today. The new ones are earlier than expected already on the way to us. Expected arrival time in one week. So we are happy to accept pre-orders now. These will then be processed in order. 
