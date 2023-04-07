@@ -2,7 +2,7 @@
 
 We don't just invest time in the project. You don't want to know how many Wemos or other components are already lying in the scrap garbage can. Or also measuring instruments. If something "ticks" you don't get it out without e.g. a Logic-Analyzer (ca. 550€) or an Oszilloscope. In short: with it the own costs are covered a little bit. We don't even talk about the many evenings and nights that we have to spend when there is an "urgent" problem somewhere.
 
-For a donation you are welcome to get fully stocked and tested PCB's. These are then already loaded with the latest firmware.
+For those of you who prefer to have a ready-made PCB instead of getting and soldering everything yourself, we now offer ready-made and tested PCB's **as a solderless DIY kit** for a small donation. These are then already loaded with the latest firmware.
 
 ![Daly-BMS-MQTT-PCB](https://user-images.githubusercontent.com/17761850/228895560-c19e2c8b-7d2f-43e5-b618-bb8f400a0509.png)
 
