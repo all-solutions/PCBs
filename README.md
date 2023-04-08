@@ -25,6 +25,8 @@ Switzerland:
 Rest of the world (only as uninsured package):
 - 12,99€ as uninsured parcel
 
+Uninsured parcels escape our responsibility for compensation, should the parcel not reach the recipient, as of the proof of delivery to DHL.
+
 If you are interested, please donate the corresponding amount via [this Paypal link](https://www.paypal.com/donate/?hosted_button_id=E4WKQLHVGQPEY).
 
  
