@@ -31,3 +31,5 @@ If you are interested, please donate the corresponding amount via [this Paypal l
 **Attention:**
 
 The first boards are on their way today. The new ones are earlier than expected already on the way to us. Expected arrival time in one week (13.04.2023). So we are happy to accept pre-orders now. These will then be processed in order. 
+# 
+![LICENSE](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
