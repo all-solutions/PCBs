@@ -27,11 +27,12 @@ Rest of the world (only as uninsured package):
 
 Uninsured parcels escape our responsibility for compensation, should the parcel not reach the recipient, as of the proof of delivery to DHL.
 
-If you are interested, please donate the corresponding amount via [this Paypal link](https://www.paypal.com/donate/?hosted_button_id=E4WKQLHVGQPEY).
+If you are interested, please donate the corresponding amount including shipping.
 
+[![Paypal link](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=E4WKQLHVGQPEY)
  
 **Attention:**
 
-The first boards are on their way today. The new ones are earlier than expected already on the way to us. Expected arrival time in one week (13.04.2023). So we are happy to accept pre-orders now. These will then be processed in order. 
+The first boards are on their way. The new ones are earlier than expected already on the way to us. Expected arrival time is about 13.04.2023. So we are happy to accept pre-orders now. These will then be processed in order. 
 # 
 [![LICENSE](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
