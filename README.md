@@ -31,8 +31,8 @@ If you are interested, please donate the corresponding amount including shipping
 
 [![Paypal link](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=E4WKQLHVGQPEY)
  
-**Attention:**
+**Update 21.04.2023:**
 
-The first boards are on their way. The new ones are earlier than expected already on the way to us. Expected arrival time is about 13.04.2023. So we are happy to accept pre-orders now. These will then be processed in order. 
+The PCB's have -finally- arrived today. All pre-orders will now be processed and shipped over the weekend. Who still wants to have one now, can donate with pleasure. 11 PCB's are currently still available. What goes beyond that would have to wait until the next order and delivery. 
 # 
 [![LICENSE](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
