@@ -33,6 +33,6 @@ If you are interested, please donate the corresponding amount including shipping
  
 **Update 21.04.2023:**
 
-The PCB's have -finally- arrived today. All pre-orders will now be processed and shipped over the weekend. Who still wants to have one now, can donate with pleasure. 11 PCB's are currently still available. What goes beyond that would have to wait until the next order and delivery. 
+The PCB's have -finally- arrived today. All pre-orders will now be processed and shipped over the weekend. Who still wants to have one now, can donate with pleasure. 10 PCB's are currently still available. What goes beyond that would have to wait until the next order and delivery. 
 # 
 [![LICENSE](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
