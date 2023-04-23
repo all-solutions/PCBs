@@ -4,7 +4,7 @@ We don't just invest time in the project. You don't want to know how many Wemos 
 
 For those of you who prefer to have a ready-made PCB instead of getting and soldering everything yourself, we now offer ready-made and tested PCB's **as a solderless DIY kit** for a small donation. These are then already loaded with the latest firmware.
 
-![Daly-BMS-MQTT-PCB](https://user-images.githubusercontent.com/17761850/228895560-c19e2c8b-7d2f-43e5-b618-bb8f400a0509.png)
+![Daly-BMS-MQTT-PCB](https://user-images.githubusercontent.com/17761850/233856649-9718ed44-b4bc-4104-aa66-b12738ec498a.png)
 
 The donation amount is 25€ per PCB plus shipping.
 
