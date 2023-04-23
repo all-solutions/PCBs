@@ -1,4 +1,4 @@
-# Solar-to-MQTT-PCB
+# solar2mqtt-PCB
 
 We don't just invest time in the project. You don't want to know how many Wemos or other components are already lying in the scrap garbage can. Or also measuring instruments. If something "ticks" you don't get it out without e.g. a Logic-Analyzer (ca. 550€) or an Oszilloscope. In short: with it the own costs are covered a little bit. We don't even talk about the many evenings and nights that we have to spend when there is an "urgent" problem somewhere.
 
