@@ -6,6 +6,8 @@ For those of you who prefer to have a ready-made PCB instead of getting and sold
 
 ![Daly-BMS-MQTT-PCB](https://user-images.githubusercontent.com/17761850/233856649-9718ed44-b4bc-4104-aa66-b12738ec498a.png)
 
+You can simply plug the cable supplied with the BT dongle (Micro-USB) into the corresponding socket on the PCB (not the Wemos). With most BMSs, no additional power supply is necessary either.
+
 The donation amount is 25€ per PCB plus shipping.
 
 **Shipping:**
