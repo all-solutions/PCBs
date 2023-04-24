@@ -8,7 +8,7 @@ The PCB can be connected directly to the inverter using a standard network cable
 
 ![image](https://user-images.githubusercontent.com/17761850/233857977-ec6b40ff-adba-496a-94af-9537b8aacfd9.png)
 
-The donation amount is 30€ per PCB plus shipping.
+The donation amount is 25€ per PCB plus shipping.
 
 **Shipping:**
 
