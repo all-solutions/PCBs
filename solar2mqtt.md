@@ -1,4 +1,4 @@
-# solar2mqtt-PCB
+# Solar2MQTT-PCB
 
 We don't just invest time in the project. You don't want to know how many Wemos or other components are already lying in the scrap garbage can. Or also measuring instruments. If something "ticks" you don't get it out without e.g. a Logic-Analyzer (ca. 550€) or an Oszilloscope. In short: with it the own costs are covered a little bit. We don't even talk about the many evenings and nights that we have to spend when there is an "urgent" problem somewhere.
 
@@ -7,8 +7,13 @@ For those of you who prefer to have a ready-made PCB instead of getting and sold
 The PCB can be connected directly to the inverter using a standard network cable. For inverters (most) that also provide a power supply via the RJ jack, no additional power supply is required.
 
 ![image](https://user-images.githubusercontent.com/17761850/233857977-ec6b40ff-adba-496a-94af-9537b8aacfd9.png)
+![image](https://user-images.githubusercontent.com/17761850/234286857-8bf0e3c0-c0d6-4a09-84e1-595f81462fc3.png)
 
-The donation amount is 25€ per PCB plus shipping.
+Since Solar2MQTT needs an interface converter and a voltage converter in addition to the Wemos, we have developed a board on which everything is already integrated. This means that no soldering work is necessary.
+
+We do **not** offer the PCBS alone (without Wemos), because we can not guarantee the complete functionality of the overall PCB.
+
+The donation amount is 25€ per PCB (including fully programmed Wemos) **plus shipping**.
 
 **Shipping:**
 
