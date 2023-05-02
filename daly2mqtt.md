@@ -37,7 +37,7 @@ If you are interested, please donate the corresponding amount including shipping
  
 **Update 21.04.2023:**
 
-The PCB's have -finally- arrived today. All pre-orders will now be processed and shipped over the weekend. Who still wants to have one now, can donate with pleasure. **4** PCB's are currently still available. What goes beyond that would have to wait until the next order and delivery. 
+The PCB's have -finally- arrived today. All pre-orders will now be processed and shipped over the weekend. Who still wants to have one now, can donate with pleasure. **2** PCB's are currently still available. What goes beyond that would have to wait until the next order and delivery. 
 
 # DALY-BMS-to-MQTT-PCB (german)
 
@@ -76,7 +76,7 @@ Bei Interesse spenden Sie bitte den entsprechenden Betrag inklusive Versand.
  
 **Update 21.04.2023:**
 
-Die PCB's sind heute endlich eingetroffen. Alle Vorbestellungen werden nun bearbeitet und über das Wochenende verschickt. Wer jetzt noch eine haben möchte, kann gerne spenden. Derzeit sind noch **4** PCB's verfügbar. Was darüber hinaus geht, müsste bis zur nächsten Bestellung und Lieferung warten. 
+Die PCB's sind heute endlich eingetroffen. Alle Vorbestellungen werden nun bearbeitet und über das Wochenende verschickt. Wer jetzt noch eine haben möchte, kann gerne spenden. Derzeit sind noch **2** PCB's verfügbar. Was darüber hinaus geht, müsste bis zur nächsten Bestellung und Lieferung warten. 
 
 # 
 [![LICENSE](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
