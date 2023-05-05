@@ -35,9 +35,9 @@ If you are interested, please donate the corresponding amount including shipping
 
 [![Paypal link](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=E4WKQLHVGQPEY)
  
-**Update 21.04.2023:**
+**Update 05.05.2023:**
 
-The PCB's have -finally- arrived today. All pre-orders will now be processed and shipped over the weekend. Who still wants to have one now, can donate with pleasure. **2** PCB's are currently still available. What goes beyond that would have to wait until the next order and delivery. 
+**All PCB's are now gone. The new delivery is expected to arrive on 09.05.2023. However, you can continue to donate as usual and will receive the PCB after the delivery arrives.**
 
 # DALY-BMS-to-MQTT-PCB (german)
 
@@ -74,9 +74,9 @@ Bei Interesse spenden Sie bitte den entsprechenden Betrag inklusive Versand.
 
 [![Paypal-Link](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=E4WKQLHVGQPEY)
  
-**Update 21.04.2023:**
+**Update 05.05.2023:**
 
-Die PCB's sind heute endlich eingetroffen. Alle Vorbestellungen werden nun bearbeitet und über das Wochenende verschickt. Wer jetzt noch eine haben möchte, kann gerne spenden. Derzeit sind noch **2** PCB's verfügbar. Was darüber hinaus geht, müsste bis zur nächsten Bestellung und Lieferung warten. 
+**Alle PCB's sind nun weg. Die neue Lieferung trifft voraussichtlich am 09.05.2023 ein. Ihr könnt aber wie gewohnt weiter spenden und erhaltet die PCB nach Eintreffen der Lieferung.**
 
 # 
 [![LICENSE](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
