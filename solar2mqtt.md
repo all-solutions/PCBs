@@ -14,7 +14,7 @@ Since Solar2MQTT needs an interface converter and a voltage converter in additio
 
 We do **not** offer the PCBS alone (without Wemos), because we can not guarantee the complete functionality of the overall PCB.
 
-The donation amount is 25€ per PCB (including fully programmed Wemos) **plus shipping**.
+For a donation of 25 € each (plus shipping costs) you will receive a completely equipped and tested PCB incl. Wemos as a thank you gift.
 
 **Shipping:**
 
@@ -55,7 +55,7 @@ Da Solar2MQTT zusätzlich zu den Wemos einen Schnittstellenwandler und einen Spa
 
 Wir bieten **nicht** die Platinen allein (ohne Wemos) an, da wir die vollständige Funktionalität der Gesamtplatine nicht garantieren können.
 
-Der Spendenbetrag liegt bei 25€ pro Platine (inkl. fertig programmierten Wemos) **zzgl. Versand**.
+Für eine je Spende von 25 € (zzgl. Versandkosten) erhaltet ihr als Dankeschön-Geschenk eine komplett bestückte und geprüfte Platine inkl. Wemos.
 
 **Versand:**
 
