@@ -55,7 +55,7 @@ Da Solar2MQTT zusätzlich zu den Wemos einen Schnittstellenwandler und einen Spa
 
 Wir bieten **nicht** die Platinen allein (ohne Wemos) an, da wir die vollständige Funktionalität der Gesamtplatine nicht garantieren können.
 
-Für eine je Spende von 25 € (zzgl. Versandkosten) erhaltet ihr als Dankeschön-Geschenk eine komplett bestückte und geprüfte Platine inkl. Wemos.
+Für eine Spende von je 25 € (zzgl. Versandkosten) erhaltet ihr als Dankeschön-Geschenk eine komplett bestückte und geprüfte Platine inkl. Wemos.
 
 **Versand:**
 
