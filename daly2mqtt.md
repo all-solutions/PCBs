@@ -69,7 +69,7 @@ Rest der Welt (nur als unversichertes Paket):
 
 Unversicherte Pakete entziehen sich unserer Verantwortung für eine Entschädigung, sollte das Paket den Empfänger nicht erreichen, ab dem Zustellnachweis an DHL.
 
-Bei Interesse spenden Sie bitte den entsprechenden Betrag inklusive Versand.
+Bei Interesse spende bitte den entsprechenden Betrag inklusive Versand.
 
 [![Paypal-Link](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=E4WKQLHVGQPEY)
  
