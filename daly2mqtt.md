@@ -1,4 +1,4 @@
-For German see [here](#daly-bms-to-mqtt-pcb-german)
+For German see [here](#daly2mqtt-pcb-german)
 
 # Daly2MQTT-PCB
 
