@@ -79,12 +79,13 @@ Rest der Welt (nur als unversichertes Paket):
 
 Unversicherte Pakete entziehen sich unserer Verantwortung für eine Entschädigung, sollte das Paket den Empfänger nicht erreichen, ab dem Zustellnachweis an DHL.
 
-Bei Interesse spenden Sie bitte den entsprechenden Betrag inklusive Versand.
+Bei Interesse spende bitte den entsprechenden Betrag inklusive Versand.
 
 **Die Platinen sind angekommen und auch schon geprüft.**
 
 [![Paypal link](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=HXSV9XZ4JAGE4)
 
 **Es wäre nett von euch, wenn ihr die PayPal-Gebühren übernehmen würdet. Da haben wir nämlich nichts von.**
- 
+
+---
 [![LICENSE](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
