@@ -1,6 +1,6 @@
 **Select the desired PCB type**
 #
-# [Daly-BMS-to-MQTT](daly2mqtt.md)
+# [Daly2MQTT](daly2mqtt.md)
 
 # [Solar2MQTT](solar2mqtt.md)
 
