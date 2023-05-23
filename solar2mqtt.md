@@ -16,30 +16,33 @@ We do **not** offer the PCBS alone (without Wemos), because we can not guarantee
 
 For a donation of 25 € each (plus shipping costs) you will receive a completely equipped and tested PCB incl. Wemos as a thank you gift.
 
-**Shipping:**
+**Shipping and shipping material:**
 
 Within Germany:
-- 3,99€ as uninsured parcel
-- 5,49€ as insured parcel (incl. tracking)
+- 4,49€ as uninsured parcel
+- 5,99€ as insured parcel (incl. tracking)
 
 Within the European Union (without Switzerland):
-- 5,99€ as uninsured parcel
-- 13,99€ as insured parcel (incl. tracking)
+- 6,49€ as uninsured parcel
+- 14,49€ as insured parcel (incl. tracking)
 
 Switzerland:
-- 8,99€ as uninsured parcel
-- 26,90€ as insured parcel (incl. tracking)
+- 9,49€ as uninsured parcel
+- 27,50€ as insured parcel (incl. tracking)
 
 Rest of the world (only as uninsured package):
-- 12,99€ as uninsured parcel
+- 13,49€ as uninsured parcel
 
 Uninsured parcels escape our responsibility for compensation, should the parcel not reach the recipient, as of the proof of delivery to DHL.
 
 If you are interested, please donate the corresponding amount including shipping.
 
-**We are currently waiting for the delivery. Pre-orders are welcome.**
+**The PCB's have arrived and have already been tested.**
 
 [![Paypal link](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=HXSV9XZ4JAGE4)
+
+**It would be nice of you guys to cover the PayPal fees. Because we have nothing from it.**
+
 
 # Solar2MQTT-PCB (german)
 Wir investieren nicht nur Zeit in das Projekt. Sie wollen nicht wissen, wie viele Wemos oder andere Bauteile bereits in der Mülltonne liegen. Oder auch Messgeräte. Wenn etwas "tickt", bekommt man es nicht ohne z.B. einen Logic-Analyzer (ca. 550€) oder ein Oszilloskop heraus. Kurzum: Damit sind die eigenen Kosten ein wenig gedeckt. Von den vielen Abenden und Nächten, die wir verbringen müssen, wenn es irgendwo ein "dringendes" Problem gibt, reden wir gar nicht erst.
@@ -57,30 +60,31 @@ Wir bieten **nicht** die Platinen allein (ohne Wemos) an, da wir die vollständi
 
 Für eine Spende von je 25 € (zzgl. Versandkosten) erhaltet ihr als Dankeschön-Geschenk eine komplett bestückte und geprüfte Platine inkl. Wemos.
 
-**Versand:**
+**Versand und Versandmaterial:**
 
 Innerhalb Deutschlands:
-- 3,99€ als unversichertes Paket
-- 5,49€ als versichertes Paket (inkl. Sendungsverfolgung)
+- 4,49€ als unversichertes Paket
+- 5,99€ als versichertes Paket (inkl. Sendungsverfolgung)
 
 Innerhalb der Europäischen Union (ohne Schweiz):
-- 5,99€ als unversichertes Paket
-- 13,99€ als versichertes Paket (inkl. Sendungsverfolgung)
+- 6,49€ als unversichertes Paket
+- 14,49€ als versichertes Paket (inkl. Sendungsverfolgung)
 
 Schweiz:
-- 8,99€ als unversichertes Paket
-- 26,90€ als versichertes Paket (inkl. Sendungsverfolgung)
+- 9,49€ als unversichertes Paket
+- 27,50€ als versichertes Paket (inkl. Sendungsverfolgung)
 
 Rest der Welt (nur als unversichertes Paket):
-- 12,99€ als unversichertes Paket
+- 13,49€ als unversichertes Paket
 
 Unversicherte Pakete entziehen sich unserer Verantwortung für eine Entschädigung, sollte das Paket den Empfänger nicht erreichen, ab dem Zustellnachweis an DHL.
 
 Bei Interesse spenden Sie bitte den entsprechenden Betrag inklusive Versand.
 
-**Wir warten derzeit auf die Lieferung. Vorbestellungen sind willkommen.**
+**Die Platinen sind angekommen und auch schon geprüft.**
 
 [![Paypal link](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=HXSV9XZ4JAGE4)
 
-# 
+**Es wäre nett von euch, wenn ihr die PayPal-Gebühren übernehmen würdet. Da haben wir nämlich nichts von.**
+ 
 [![LICENSE](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
