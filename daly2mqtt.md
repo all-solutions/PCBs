@@ -1,6 +1,6 @@
 For German see [here](#daly-bms-to-mqtt-pcb-german)
 
-# DALY-BMS-to-MQTT-PCB
+# Daly2PCB
 
 We don't just invest time in the project. You don't want to know how many Wemos or other components are already lying in the scrap garbage can. Or also measuring instruments. If something "ticks" you don't get it out without e.g. a Logic-Analyzer (ca. 550€) or an Oszilloscope. In short: with it the own costs are covered a little bit. We don't even talk about the many evenings and nights that we have to spend when there is an "urgent" problem somewhere.
 
@@ -38,7 +38,7 @@ If you are interested, please donate the corresponding amount including shipping
 **It would be nice of you guys to cover the PayPal fees. Because we have nothing from it.**
 
 
-# DALY-BMS-to-MQTT-PCB (german)
+# Daly2MQTT-PCB (german)
 
 Wir investieren nicht nur Zeit in das Projekt. Sie wollen nicht wissen, wie viele Wemos oder andere Komponenten bereits in der Mülltonne liegen. Oder auch Messgeräte. Wenn etwas "tickt", bekommt man es nicht ohne z.B. einen Logic-Analyzer (ca. 550€) oder ein Oszilloskop heraus. Kurzum: Damit sind die eigenen Kosten ein wenig gedeckt. Von den vielen Abenden und Nächten, die wir verbringen müssen, wenn es irgendwo ein "dringendes" Problem gibt, reden wir gar nicht erst.
 
