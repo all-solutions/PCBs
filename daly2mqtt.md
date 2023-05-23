@@ -75,5 +75,5 @@ Bei Interesse spenden Sie bitte den entsprechenden Betrag inklusive Versand.
  
 **Es wäre nett von euch, wenn ihr die PayPal-Gebühren übernehmen würdet. Da haben wir nämlich nichts von.**
 
-# 
+ 
 [![LICENSE](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
