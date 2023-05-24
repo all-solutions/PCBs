@@ -10,7 +10,7 @@ For those of you who prefer to have a ready-made PCB instead of getting and sold
 
 You can simply plug the cable supplied with the BT dongle (Micro-USB) into the corresponding socket on the PCB (not the Wemos). With most BMSs, no additional power supply is necessary either.
 
-For a donation of 25 € each (plus shipping costs) you will receive a completely equipped and tested PCB incl. Wemos as a thank you gift.
+For a donation of 26,50 € (25 € plus Paypal fee) each plus shipping costs you will receive a completely equipped and tested PCB incl. Wemos as a thank you gift.
 
 **Shipping and shipping material:**
 
@@ -48,7 +48,7 @@ Für diejenigen, die lieber eine fertige Platine haben wollen, anstatt alles sel
 
 Das mitgelieferte Kabel des BT-Dongles (Micro-USB) wird einfach in die entsprechende Buchse auf der Platine (nicht des Wemos) gesteckt. Bei den meisten BMS ist auch keine zusätzliche Stromversorgung notwendig.
 
-Für eine Spende von je 25 € (zzgl. Versandkosten) erhaltet ihr als Dankeschön-Geschenk eine komplett bestückte und geprüfte Platine inkl. Wemos.
+Für eine Spende von je 26,50 € (25 € plus Paypal-Gebühren) zzgl. Versandkosten erhaltet ihr als Dankeschön-Geschenk eine komplett bestückte und geprüfte Platine inkl. Wemos.
 
 **Versand und Versandmaterial:**
 
