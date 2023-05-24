@@ -41,7 +41,6 @@ If you are interested, please donate the corresponding amount including shipping
 
 [![Paypal link](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=T6GPLAY6WEV9G)
 
-**It would be nice of you guys to cover the PayPal fees. Because we have nothing from it.**
 
 
 # Epever2MQTT-PCB (german)
@@ -84,7 +83,6 @@ Bei Interesse spende bitte den entsprechenden Betrag inklusive Versand.
 
 [![Paypal link](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=T6GPLAY6WEV9G)
 
-**Es wäre nett von euch, wenn ihr die PayPal-Gebühren übernehmen würdet. Da haben wir nämlich nichts von.**
 
 ---
 [![LICENSE](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
