@@ -14,7 +14,7 @@ Since Epever2MQTT needs an interface converter in addition to the Wemos, we have
 
 We do **not** offer the PCBS alone (without Wemos), because we can not guarantee the complete functionality of the overall PCB.
 
-For a donation of 25 € each (plus shipping costs) you will receive a completely equipped and tested PCB incl. Wemos as a thank you gift.
+For a donation of 26,50 € (25 € plus Paypal fee) each plus shipping costs you will receive a completely equipped and tested PCB incl. Wemos as a thank you gift.
 
 **Shipping and shipping material:**
 
@@ -57,7 +57,7 @@ Da Epever2MQTT zusätzlich zu den Wemos einen Schnittstellenwandler benötigt, h
 
 Wir bieten **nicht** die Platinen allein (ohne Wemos) an, da wir die vollständige Funktionalität der Gesamtplatine nicht garantieren können.
 
-Für eine Spende von je 25 € (zzgl. Versandkosten) erhaltet ihr als Dankeschön-Geschenk eine komplett bestückte und geprüfte Platine inkl. Wemos.
+Für eine Spende von je 26,50 € (25 € plus Paypal-Gebühren) zzgl. Versandkosten erhaltet ihr als Dankeschön-Geschenk eine komplett bestückte und geprüfte Platine inkl. Wemos.
 
 **Versand und Versandmaterial:**
 
