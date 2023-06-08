@@ -41,7 +41,7 @@ If you are interested, please donate the corresponding amount including shipping
 
 [![Paypal link](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=HXSV9XZ4JAGE4)
 
-
+If you have questions or also want a combined shipment of several different PCB's: https://discord.com/channels/1007020337482973254/1116077566139318412
 
 # Solar2MQTT-PCB (german)
 Wir investieren nicht nur Zeit in das Projekt. Sie wollen nicht wissen, wie viele Wemos oder andere Bauteile bereits in der Mülltonne liegen. Oder auch Messgeräte. Wenn etwas "tickt", bekommt man es nicht ohne z.B. einen Logic-Analyzer (ca. 550€) oder ein Oszilloskop heraus. Kurzum: Damit sind die eigenen Kosten ein wenig gedeckt. Von den vielen Abenden und Nächten, die wir verbringen müssen, wenn es irgendwo ein "dringendes" Problem gibt, reden wir gar nicht erst.
@@ -84,6 +84,7 @@ Bei Interesse spende bitte den entsprechenden Betrag inklusive Versand.
 
 [![Paypal link](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=HXSV9XZ4JAGE4)
 
+Wenn Du fragen hast oder auch einen Kombiversand mehrerer unterschiedlichen PCB's möchtest: https://discord.com/channels/1007020337482973254/1116077566139318412
 
 ---
 [![LICENSE](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
