@@ -33,6 +33,8 @@ Uninsured parcels escape our responsibility for compensation, should the parcel 
 
 If you are interested, please donate the corresponding amount including shipping.
 
+**Due to current problems caused by low quality PCBs from our supplier, no PCBs will be shipped until further notice. We are currently clarifying this with the PCB supplier.**
+
 [![Paypal link](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=E4WKQLHVGQPEY)
  
 If you have questions or also want a combined shipment of several different PCB's: https://discord.com/channels/1007020337482973254/1116077566139318412
@@ -69,6 +71,8 @@ Rest der Welt (nur als unversichertes Paket):
 Unversicherte Pakete entziehen sich unserer Verantwortung für eine Entschädigung, sollte das Paket den Empfänger nicht erreichen, ab dem Zustellnachweis an DHL.
 
 Bei Interesse spende bitte den entsprechenden Betrag inklusive Versand.
+
+**Aufgrund von aktuell auftretenden Problemen, die durch qualitativ minderwertigen Platinen durch unseren Zulieferer gerade entstehen, werden bis auf weiteres keine Platinen versendet. Wir klären dies aktuell mit dem Platinenhersteller.**
 
 [![Paypal-Link](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=E4WKQLHVGQPEY)
  
