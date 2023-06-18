@@ -37,7 +37,7 @@ Uninsured parcels escape our responsibility for compensation, should the parcel 
 
 If you are interested, please donate the corresponding amount including shipping.
 
-**The PCB's have arrived and have already been tested.**
+**No PCBs can be shipped until Thursday (22.05.).**
 
 [![Paypal link](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=HXSV9XZ4JAGE4)
 
@@ -80,7 +80,7 @@ Unversicherte Pakete entziehen sich unserer Verantwortung für eine Entschädigu
 
 Bei Interesse spende bitte den entsprechenden Betrag inklusive Versand.
 
-**Die Platinen sind angekommen und auch schon geprüft.**
+**Bis Donnerstag (22.05.) können keine Platinen versendet werden.**
 
 [![Paypal link](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=HXSV9XZ4JAGE4)
 
