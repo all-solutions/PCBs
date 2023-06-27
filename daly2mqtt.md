@@ -17,7 +17,7 @@ Just enter the voucher code **NEWSHOP** during the order process.
 
 [![click-me](https://github.com/all-solutions/PCBs/assets/17761850/9286f8ee-f7b8-4e8f-a64b-e83a7ba102e5)](https://all-solutions.store)
  
-If you have questions: https://discord.com/channels/1007020337482973254/1116077566139318412
+If you have questions: [Discord-Chat](https://discord.gg/82Y5JryhKv)
 
 # Daly2MQTT-PCB (german)
 
@@ -36,7 +36,7 @@ Einfach als Gutscheincode **NEWSHOP** während der Bestellung eingeben.
 
 [![click-me](https://github.com/all-solutions/PCBs/assets/17761850/9286f8ee-f7b8-4e8f-a64b-e83a7ba102e5)](https://all-solutions.store)
  
-Wenn Du Fragen hast: https://discord.com/channels/1007020337482973254/1116077566139318412
+Wenn Du Fragen hast: [Discord-Chat](https://discord.gg/82Y5JryhKv)
 
 --- 
 [![LICENSE](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
