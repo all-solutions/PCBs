@@ -21,7 +21,7 @@ Just enter the voucher code **NEWSHOP** during the order process.
 
 [![click-me](https://github.com/all-solutions/PCBs/assets/17761850/9286f8ee-f7b8-4e8f-a64b-e83a7ba102e5)](https://all-solutions.store)
  
-If you have questions: https://discord.com/channels/1007020337482973254/1116077566139318412
+If you have questions: [Discord-Chat](https://discord.gg/82Y5JryhKv)
 
 # Solar2MQTT-PCB (german)
 Wir investieren nicht nur Zeit in das Projekt. Sie wollen nicht wissen, wie viele Wemos oder andere Bauteile bereits in der Mülltonne liegen. Oder auch Messgeräte. Wenn etwas "tickt", bekommt man es nicht ohne z.B. einen Logic-Analyzer (ca. 550€) oder ein Oszilloskop heraus. Kurzum: Damit sind die eigenen Kosten ein wenig gedeckt. Von den vielen Abenden und Nächten, die wir verbringen müssen, wenn es irgendwo ein "dringendes" Problem gibt, reden wir gar nicht erst.
@@ -44,7 +44,7 @@ Einfach als Gutscheincode **NEWSHOP** während der Bestellung eingeben.
 
 [![click-me](https://github.com/all-solutions/PCBs/assets/17761850/9286f8ee-f7b8-4e8f-a64b-e83a7ba102e5)](https://all-solutions.store)
  
-Wenn Du Fragen hast: https://discord.com/channels/1007020337482973254/1116077566139318412
+Wenn Du Fragen hast: [Discord-Chat](https://discord.gg/82Y5JryhKv)
 
 ---
 [![LICENSE](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
