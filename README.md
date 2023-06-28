@@ -1,10 +1,4 @@
-**Select the desired PCB type**
-#
-# [Daly2MQTT](daly2mqtt.md)
-
-# [Solar2MQTT](solar2mqtt.md)
-
-# [Epever2MQTT](epever2mqtt.md)
+**All PCBs are moved. See [here](https://all-solutions.store)**
 
 # 
 [![LICENSE](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
